@@ -1,6 +1,6 @@
 # Hi, I'm Roshan Zameer 👋
 
-Aspiring data scientist. I build end-to-end machine-learning projects in Python: clean the data, test the model honestly against a baseline, and ship it as a small app.
+Data scientist with 14 years in aviation planning and procurement. I build end-to-end machine-learning projects in Python: clean the data, test the model honestly against a baseline, and ship it as a small app.
 
 ## Projects
 
